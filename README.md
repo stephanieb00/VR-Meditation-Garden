@@ -1,1 +1,20 @@
 # VR-Meditation-Garden
+
+Taking care of one’s mental health is very important for an individual's well being. Something that a lot of people struggle with is anxiety, whether it be because of high stress or other reasons. Currently with a global pandemic taking place, people’s anxiety levels have increased. 
+
+This is where our VR application comes into play. The application is designed to help people reduce their level of anxiety by being taken out of their stressful environment and into a different context. Peaceful nature-inspired scenery, soft music and nature sounds, and a warm color palette, are all aimed at producing a calming atmosphere. 
+
+Our application offers simple tasks for a user to perform that are known to be effective at reducing one’s anxiety. The tasks within the theme of a Meditation Garden are organized into four zones – breathing exercises, animal petting zoo, food planting, and sand garden – allowing the user to choose which tasks/setting suits their current mood or preference.
+
+In our current situation, many are faced with difficult circumstances. The inability to go outside or interact with friends & family, the way we used to, undoubtedly affects our mental state. A large portion of people have been stuck at home ever since quarantine began, which worsens health if people are not consistently maintaining a healthy routine at home. 
+
+However, one upside to quarantine for some has been more free time to indulge on hobbies and activities to gain peace of mind. Many people have been able to find what helps them relax and alleviate anxiety, which is extremely helpful when needing to get used to the new norm that is being stuck at home. 
+Immersive activities in nature, such as walking through parks, observing animals / birdwatching, or tending plants, have been shown to decrease stress and improve mental health (Tyrväinen, Ojala, et al).  Furthermore, when an individual finds themselves not being able to relax and in the midst of an anxiety attack, controlling their breathing will help immensely. 
+
+For individuals who need a relaxing activity and calming environment, while remaining physically indoors, we seek to build a virtual garden VR experience, allowing users to meditate, relax, and enjoy themselves safely. They will be able to partake in activities that would bring them peace of mind in the real world. There are times when an office or school building will bring dogs or cats as therapy for workers and students. This is why a VR version of this with zoo animals could be extremely helpful. It would allow for players to feel like they are a petting zoo and bring them the comfort that being actually there would. 
+
+Gardening is also a very well known form of therapy. People are able to lose themselves in planting their favorite flowers or vegetation. It’s an incredibly relaxing pass time, which is why creating a virtual experience of this could be extremely useful for those who don’t have access to the space required to build an actual garden. A game that became popular during quarantine throughout social media was a game called “Animal Crossing” which sort of does a lot of these interactive activities like gardening and so on. 
+
+A calm environment for players to be able to meditate and do other activities that would help bring serenity to their minds is important. This is what the Sand Garden tries to do. It tries to imitate real world objects and environments that would bring peace to a person. 
+
+People find themselves having extreme anxiety and panic. Especially when things are changing drastically. Research shows that a very good way to slow down someone’s heart rate is to find a breathing technique that is best for them. Many people find themselves just breathing in and out but it is important to have a rhythm and a pace in order to maintain a stable breathing pattern. The “4 7 8 breathing technique” is a way to be able to do this. A VR implementation of this would allow for people to have help with keeping track how long they have to breathe for and how. 
